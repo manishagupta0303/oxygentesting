@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   <url>
+      <loc>topics/deployment-c.html</loc>
+      <lastmod>2022-03-16T05:43:09Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/standard_deployment_architecture-c.html</loc>
+      <lastmod>2022-03-16T05:43:09Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/checklist_of_information_required_for_installation_and_configuration-r.html</loc>
+      <lastmod>2022-03-16T05:43:09Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/network_connectivity_requirements_r.html</loc>
+      <lastmod>2022-03-16T05:43:09Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/configuration_c.html</loc>
+      <lastmod>2022-03-16T05:43:09Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/registration_management_t.html</loc>
+      <lastmod>2022-03-16T05:43:09Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/users_and_groups_c.html</loc>
+      <lastmod>2022-03-16T05:43:09Z</lastmod>
+   </url>
+</urlset>
